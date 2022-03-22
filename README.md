@@ -1,4 +1,26 @@
 ### Hi there 👋
+My name is Fabiola. I am a recent graduate of Bloom Institute Technology with a certification in Data Science, with a passionate interest in Machine Learning Engineering and Neural Networks. 
+
+🔭 I’m currently working on a variety of projects, mostly Python based
+
+✨ Some of my technical skills include:
+- Linear Algebra & Statistical Analysis
+- Python, SQL
+- Machine Learning
+- Deep Learning and ML OP
+- Natural Language Processing 
+- Flask applications
+- Project management 
+
+📫 How to reach me: 
+
+fivelasco87@gmail.com <br>
+<a href="https://www.linkedin.com/in/fabiolavelascoa/">LinkedIn</a> <br>
+
+⚡ Fun fact: <br>
+I am born and raised in Mexico and I am fluent in Spanish 🤠
+
+
 
 <!--
 **fabiolavelasco/fabiolavelasco** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
