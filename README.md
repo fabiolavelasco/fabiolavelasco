@@ -18,7 +18,7 @@ fivelasco87@gmail.com <br>
 <a href="https://www.linkedin.com/in/fabiolavelascoa/">LinkedIn</a> <br>
 
 ⚡ Fun fact: <br>
-I am born and raised in Mexico and I am fluent in Spanish 🤠
+I was born and raised in Mexico and I am fluent in Spanish 🤠
 
 
 
