@@ -1,5 +1,5 @@
 ### Hi there 👋
-My name is Fabiola. I am a recent graduate of Bloom Institute Technology with a certification in Data Science, with a passionate interest in Machine Learning Engineering and Neural Networks. 
+My name is Fabiola. I am a graduate of Bloom Institute Technology with a certification in Data Science, with a passionate interest in Machine Learning Engineering and Neural Networks. 
 
 🔭 I’m currently working on a variety of projects, mostly Python based
 
