@@ -12,13 +12,8 @@ My name is Fabiola. I am a Data Scientist and Data Analyst with a passionate int
 - FastAPI and Flask applications
 - Project management 
 
-📫 How to reach me: 
-
-fivelasco87@gmail.com <br>
-<a href="https://www.linkedin.com/in/fabiolavelascoa/">LinkedIn</a> <br>
-
 ⚡ Fun fact: <br>
-I was born and raised in Mexico and I am fluent in Spanish 🤠
+I like solving leetcode questions for fun and create oddly specific GPTs. Currently working on a chatbot that will work as a powerlifting and nutrition coach based on a book character. Let me know if you want to help me turn this into an app! 
 
 
 
