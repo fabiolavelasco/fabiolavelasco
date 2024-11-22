@@ -13,7 +13,7 @@ My name is Fabiola. I am a Data Scientist and Data Analyst with a passionate int
 - Project management 
 
 ⚡ Fun fact: <br>
-I like solving leetcode questions for fun and create oddly specific GPTs. Currently working on a chatbot that will work as a powerlifting and nutrition coach based on a book character. Let me know if you want to help me turn this into an app! 
+I like solving leetcode questions for fun and creating oddly specific GPTs. Currently working on a chatbot that will work as a powerlifting and nutrition coach based on a book character. Let me know if you want to help me turn this into an app! 
 
 
 
